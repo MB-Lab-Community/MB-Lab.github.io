@@ -1,1 +1,21 @@
-theme: jekyll-theme-midnight
+# Site settings
+title: Prefabricator
+email: ali.akbar@coderespawn.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://prefabricator.io" # the base hostname & protocol for your site
+
+twitter_username: coderespawn
+github_username: coderespawn
+discord_server: https://discord.gg/q3suTpE
+forum_url: https://forums.unrealengine.com/community/work-in-progress/1567571-prefabricator-open-source-prefab-plugin
+
+# Downloads
+build_version_slot1: 1.0.4
+build_version_slot2: 
+build_version_slot3: 
+
+# Build settings
+markdown: kramdown
+
+
