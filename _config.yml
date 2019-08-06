@@ -8,7 +8,8 @@ url: "https://mb-lab-community.github.io/MB-Lab.github.io/" # the base hostname 
 twitter_username: 
 github_username: animate1978
 discord_server: https://discord.gg/FuJGcVN
-forum_url: https://blenderartists.org/t/mb-lab-1-7-1-release-for-blender-2-80/1138777/33
+forum_url: https://blenderartists.org/t/mb-lab-release-for-blender-2-80/1138777
+patreon: https://www.patreon.com/mblab_development
 
 # Downloads
 build_version_slot1: 
